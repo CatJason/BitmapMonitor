@@ -1,0 +1,3 @@
+/Users/jason/Downloads/AndroidBitmapMonitor-1.0.9/library/.cxx/RelWithDebInfo/423n3u1m/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/jason/Downloads/AndroidBitmapMonitor-1.0.9/library/.cxx/RelWithDebInfo/423n3u1m/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/jason/Downloads/AndroidBitmapMonitor-1.0.9/library/.cxx/RelWithDebInfo/423n3u1m/arm64-v8a/CMakeFiles/bitmapmonitor.dir

@@ -1,0 +1,11 @@
+# ninja log v5
+1	319	1707744533	CMakeFiles/bitmapmonitor.dir/bitmap_saver.cpp.o	373b5d1f56c9f931
+0	578	1707744534	CMakeFiles/bitmapmonitor.dir/bitmap_monitor.cpp.o	1c553c34721389d
+578	704	1707744534	/Users/jason/AndroidStudioProjects/heybox_android/HeyBox/library/build/intermediates/cxx/Debug/6xy6ai3s/obj/arm64-v8a/libbitmapmonitor.so	6a7c13470a1da3eb
+0	10	0	clean	da65b92442c47695
+2	164	1707745714	CMakeFiles/bitmapmonitor.dir/bitmap_saver.cpp.o	373b5d1f56c9f931
+1	463	1707745714	CMakeFiles/bitmapmonitor.dir/bitmap_monitor.cpp.o	1c553c34721389d
+463	570	1707745714	/Users/jason/AndroidStudioProjects/heybox_android/HeyBox/library/build/intermediates/cxx/Debug/6xy6ai3s/obj/arm64-v8a/libbitmapmonitor.so	6a7c13470a1da3eb
+3	2203	1707902900	CMakeFiles/bitmapmonitor.dir/bitmap_saver.cpp.o	373b5d1f56c9f931
+0	2996	1707902901	CMakeFiles/bitmapmonitor.dir/bitmap_monitor.cpp.o	1c553c34721389d
+2996	3379	1707902901	/Users/jason/AndroidStudioProjects/heybox_android/HeyBox/library/build/intermediates/cxx/Debug/6xy6ai3s/obj/arm64-v8a/libbitmapmonitor.so	6a7c13470a1da3eb

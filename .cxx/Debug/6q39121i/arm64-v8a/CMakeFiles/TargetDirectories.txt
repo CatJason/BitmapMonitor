@@ -1,0 +1,3 @@
+/Users/jason/AndroidStudioProjects/heybox_android/HeyBox/BitmapMonitor/.cxx/Debug/6q39121i/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/jason/AndroidStudioProjects/heybox_android/HeyBox/BitmapMonitor/.cxx/Debug/6q39121i/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/jason/AndroidStudioProjects/heybox_android/HeyBox/BitmapMonitor/.cxx/Debug/6q39121i/arm64-v8a/CMakeFiles/bitmapmonitor.dir

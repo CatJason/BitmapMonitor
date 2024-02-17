@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/jason/Downloads/AndroidBitmapMonitor-1.0.9/library/.cxx/Debug/2z1e5p4w/arm64-v8a'
+ninja: no work to do.

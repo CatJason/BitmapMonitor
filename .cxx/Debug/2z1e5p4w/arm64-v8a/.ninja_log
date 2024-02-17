@@ -1,0 +1,5 @@
+# ninja log v5
+0	21	0	clean	da65b92442c47695
+2	466	1707741125	CMakeFiles/bitmapmonitor.dir/bitmap_saver.cpp.o	ed04159e17275ad7
+1	726	1707741125	CMakeFiles/bitmapmonitor.dir/bitmap_monitor.cpp.o	b5575df25d2671b4
+727	864	1707741125	/Users/jason/Downloads/AndroidBitmapMonitor-1.0.9/library/build/intermediates/cxx/Debug/2z1e5p4w/obj/arm64-v8a/libbitmapmonitor.so	17a9c36d0f153b56

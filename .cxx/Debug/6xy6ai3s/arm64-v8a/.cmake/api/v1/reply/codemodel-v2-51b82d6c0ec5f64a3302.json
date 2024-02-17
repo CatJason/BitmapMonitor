@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "bitmapmonitor",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "bitmapmonitor::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bitmapmonitor-Debug-d0aef1a3809e3b1d4ef8.json",
+					"name" : "bitmapmonitor",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/jason/AndroidStudioProjects/heybox_android/HeyBox/library/.cxx/Debug/6xy6ai3s/arm64-v8a",
+		"source" : "/Users/jason/AndroidStudioProjects/heybox_android/HeyBox/library/src/main/cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}

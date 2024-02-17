@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/jason/Downloads/AndroidBitmapMonitor-1.0.9/library/.cxx/RelWithDebInfo/423n3u1m/arm64-v8a",
+  "command": "/Users/jason/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/jason/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/jason/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dbitmapmonitor_EXPORTS -isystem /Users/jason/.gradle/caches/transforms-3/14baca4830092d6ca28a6940d4fd9ae2/transformed/shadowhook-1.0.3/prefab/modules/shadowhook/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -g -DNDEBUG -fPIC -o CMakeFiles/bitmapmonitor.dir/bitmap_monitor.cpp.o -c /Users/jason/Downloads/AndroidBitmapMonitor-1.0.9/library/src/main/cpp/bitmap_monitor.cpp",
+  "file": "/Users/jason/Downloads/AndroidBitmapMonitor-1.0.9/library/src/main/cpp/bitmap_monitor.cpp"
+},
+{
+  "directory": "/Users/jason/Downloads/AndroidBitmapMonitor-1.0.9/library/.cxx/RelWithDebInfo/423n3u1m/arm64-v8a",
+  "command": "/Users/jason/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/jason/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/jason/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dbitmapmonitor_EXPORTS -isystem /Users/jason/.gradle/caches/transforms-3/14baca4830092d6ca28a6940d4fd9ae2/transformed/shadowhook-1.0.3/prefab/modules/shadowhook/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -g -DNDEBUG -fPIC -o CMakeFiles/bitmapmonitor.dir/bitmap_saver.cpp.o -c /Users/jason/Downloads/AndroidBitmapMonitor-1.0.9/library/src/main/cpp/bitmap_saver.cpp",
+  "file": "/Users/jason/Downloads/AndroidBitmapMonitor-1.0.9/library/src/main/cpp/bitmap_saver.cpp"
+}
+]

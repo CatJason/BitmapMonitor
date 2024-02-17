@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "bitmapmonitor",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "bitmapmonitor::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bitmapmonitor-RelWithDebInfo-212aac0ad8123057aa55.json",
+					"name" : "bitmapmonitor",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/jason/Downloads/AndroidBitmapMonitor-1.0.9/library/.cxx/RelWithDebInfo/423n3u1m/arm64-v8a",
+		"source" : "/Users/jason/Downloads/AndroidBitmapMonitor-1.0.9/library/src/main/cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}

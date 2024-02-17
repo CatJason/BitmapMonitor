@@ -1,0 +1,40 @@
+{
+  "buildFiles": [
+    "/Users/jason/Downloads/AndroidBitmapMonitor-1.0.9/library/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/jason/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/jason/Downloads/AndroidBitmapMonitor-1.0.9/library/.cxx/Debug/2z1e5p4w/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/jason/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/jason/Downloads/AndroidBitmapMonitor-1.0.9/library/.cxx/Debug/2z1e5p4w/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "bitmapmonitor::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "bitmapmonitor",
+      "output": "/Users/jason/Downloads/AndroidBitmapMonitor-1.0.9/library/build/intermediates/cxx/Debug/2z1e5p4w/obj/arm64-v8a/libbitmapmonitor.so",
+      "runtimeFiles": [
+        "/Users/jason/.gradle/caches/transforms-3/006f6001b23e226fa76edf0c93abf7d2/transformed/jetified-shadowhook-1.0.3/prefab/modules/shadowhook/libs/android.arm64-v8a/libshadowhook.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/jason/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+      "cppCompilerExecutable": "/Users/jason/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
